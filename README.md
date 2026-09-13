@@ -2,11 +2,6 @@
 eJPT (Junior Penetration Tester) preparation and revision guide with practical pentesting commands, Nmap scanning, enumeration, exploitation, Linux &amp; Windows privilege escalation, web application testing, Metasploit, pivoting, and exam tips.
 
 
-
-# eJPT Penetration Testing Reference Guide
-
-A practical, no-fluff command reference built while preparing for and passing the eJPT (eLearnSecurity/INE Junior Penetration Tester) certification. Organized by phase — recon, scanning, enumeration, vulnerability assessment, exploitation, privilege escalation, post-exploitation, web app testing, and exam strategy.
-
 > Methodology over memorization: recon → scan → enumerate → identify vulnerabilities → exploit → escalate privileges → pivot → document.
 
 ---
